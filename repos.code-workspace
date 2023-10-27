@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../repos"
+		},
+		{
+			"name": "sms-fe",
+			"path": "../repos/sms-fe"
+		}
+	],
+	"settings": {}
+}
